@@ -5,6 +5,7 @@
 	"type": "module",
 	"description": "Obsidian plugin that records all system audio inputs and outputs on Linux.",
 	"main": "main.js",
+	"license": "MIT",
 	"scripts": {
 		"build": "tsc --noEmit && node esbuild.config.mjs",
 		"test": "node --test test/*.test.ts"

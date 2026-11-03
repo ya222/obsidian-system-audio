@@ -49,3 +49,7 @@ npm test
 ```
 
 The tests are end-to-end against your running audio server and whisper.cpp. They play test tones into temporary virtual devices, so nothing comes out of your speakers. They briefly open your microphone and delete the recording afterward. `test/fixtures/jfk.wav` is the public-domain sample from the whisper.cpp repo.
+
+## License
+
+[MIT](LICENSE)
