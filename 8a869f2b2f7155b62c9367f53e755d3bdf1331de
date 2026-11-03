@@ -1,0 +1,23 @@
+README.md
+  s_f135743181744c::t_1759c0eb48f911 52-55
+package.json
+  s_f135743181744c::t_1759c0eb48f911 8
+LICENSE
+  s_f135743181744c::t_1759c0eb48f911 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8a869f2b2f7155b62c9367f53e755d3bdf1331de",
+  "prompts": {},
+  "sessions": {
+    "s_f135743181744c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "28c4e767-facc-4c5b-a9c4-c15c34d2e091",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
