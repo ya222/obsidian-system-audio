@@ -1,0 +1,18 @@
+{
+	"name": "obsidian-system-audio",
+	"version": "0.5.0",
+	"private": true,
+	"type": "module",
+	"description": "Obsidian plugin that records all system audio inputs and outputs on Linux.",
+	"main": "main.js",
+	"scripts": {
+		"build": "tsc --noEmit && node esbuild.config.mjs",
+		"test": "node --test test/*.test.ts"
+	},
+	"devDependencies": {
+		"@types/node": "^22.20.5",
+		"esbuild": "^0.28.2",
+		"obsidian": "^1.14.4",
+		"typescript": "^7.0.2"
+	}
+}

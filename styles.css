@@ -1,0 +1,15 @@
+.system-audio-recording {
+	color: var(--color-red);
+}
+
+.system-audio-status {
+	cursor: pointer;
+}
+
+.system-audio-dot svg {
+	color: var(--color-red);
+	fill: var(--color-red);
+	width: 0.7em;
+	height: 0.7em;
+	vertical-align: middle;
+}

@@ -1,0 +1,9 @@
+{
+	"id": "system-audio-capture",
+	"name": "System Audio Capture",
+	"version": "0.5.0",
+	"minAppVersion": "1.5.7",
+	"description": "Record every microphone and every app's output on Linux (PipeWire or PulseAudio) into one audio file, and transcribe it offline with Whisper.",
+	"author": "",
+	"isDesktopOnly": true
+}
